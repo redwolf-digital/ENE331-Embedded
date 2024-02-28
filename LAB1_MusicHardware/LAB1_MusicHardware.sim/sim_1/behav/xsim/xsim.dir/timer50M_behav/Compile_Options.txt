@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" -L "xpm" --snapshot "timer50M_behav" "xil_defaultlib.timer50M" -log "elaborate.log" 
