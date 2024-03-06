@@ -9,5 +9,6 @@ For backup all file and project used in class</br>
 
 </br></br></br>
 > [!CAUTION]
-> I not warranty ***source code/software*** in this > repo it can run perfectly</br></br>If you find any > bugs or any thing else I trust you can fix it by 
-> yourself :upside_down_face:
+> I not warranty ***source code/software*** in this repo it can run perfectly
+>
+> If you find any bugs or any thing else I trust you can fix it by yourself :trollface:
