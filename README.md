@@ -7,5 +7,7 @@ For backup all file and project used in class</br>
 - AMD Vitis</br>
 - AMD Vivado</br>
 
+</br></br></br>
 > [!CAUTION]
-> I not warranty code in this repo. is can run perfectly
+> I not warranty ***source code/software*** in this > repo it can run perfectly</br></br>If you find any > bugs or any thing else I trust you can fix it by 
+> yourself :upside_down_face:
