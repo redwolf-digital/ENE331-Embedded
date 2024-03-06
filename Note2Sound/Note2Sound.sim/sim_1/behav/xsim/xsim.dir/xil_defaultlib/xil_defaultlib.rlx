@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:21:30
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.srcs/sim_1/imports/LAB-src-tb/music2sound_tb.vhd,1709367377,vhdl,,,,music2sound_tb,,,,,,,,
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.srcs/sim_1/imports/LAB-src-tb/play_control_tb.vhd,1709369079,vhdl,,,,play_control_tb,,,,,,,,
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.srcs/sources_1/imports/LAB-src/delta_sigma_dac.vhd,1709340780,vhdl,,,,dac,,,,,,,,
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.srcs/sources_1/imports/LAB-src/music2sound.vhd,1709366447,vhdl,,,,music2sound,,,,,,,,
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.srcs/sources_1/imports/LAB-src/play_control_test.vhd,1709370978,vhdl,,,,play_control_test,,,,,,,,
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.srcs/sources_1/imports/LAB-src/sinTab1024.vhd,1709340780,vhdl,,,,sintab1024,,,,,,,,

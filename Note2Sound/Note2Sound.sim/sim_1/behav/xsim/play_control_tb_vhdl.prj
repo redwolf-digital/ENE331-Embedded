@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Note2Sound.srcs/sources_1/imports/LAB-src/delta_sigma_dac.vhd" \
+"../../../../Note2Sound.srcs/sources_1/imports/LAB-src/music2sound.vhd" \
+"../../../../Note2Sound.srcs/sources_1/imports/LAB-src/play_control_test.vhd" \
+"../../../../Note2Sound.srcs/sources_1/imports/LAB-src/sinTab1024.vhd" \
+"../../../../Note2Sound.srcs/sim_1/imports/LAB-src-tb/play_control_tb.vhd" \
+
+# Do not sort compile order
+nosort

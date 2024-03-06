@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" --snapshot "music2sound_tb_behav" "xil_defaultlib.music2sound_tb" -log "elaborate.log" 

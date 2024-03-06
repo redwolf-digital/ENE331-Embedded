@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:13:54 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Wed Mar  6 20:02:18 2024
+# Process ID: 159220
+# Current directory: /home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.runs/impl_1
+# Command line: vivado -log play_control_test.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source play_control_test.tcl -notrace
+# Log file: /home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.runs/impl_1/play_control_test.vdi
+# Journal file: /home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Note2Sound/Note2Sound.runs/impl_1/vivado.jou
+# Running On: tamamo, OS: Linux, CPU Frequency: 2700.000 MHz, CPU Physical cores: 14, Host memory: 16544 MB
+#-----------------------------------------------------------
+source play_control_test.tcl -notrace
