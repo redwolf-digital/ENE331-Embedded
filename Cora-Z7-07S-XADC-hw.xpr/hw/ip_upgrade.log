@@ -1,0 +1,79 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Wed Mar 27 17:56:46 2024
+| Host         : tamamo running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7z007sclg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_xadc_wiz_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_xadc_wiz_0_0 (xilinx.com:ip:xadc_wiz:3.3) from (Rev. 8) to (Rev. 9)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Wed Mar 27 17:56:46 2024
+| Host         : tamamo running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7z007sclg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_rst_ps7_0_50M_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_rst_ps7_0_50M_0 (xilinx.com:ip:proc_sys_reset:5.0) from (Rev. 13) to (Rev. 14)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Wed Mar 27 17:56:46 2024
+| Host         : tamamo running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7z007sclg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_ps7_0_axi_periph_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_ps7_0_axi_periph_0 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 27) to (Rev. 30)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2023.2 (lin64) Build 4029153 Fri Oct 13 20:13:54 MDT 2023
+| Date         : Wed Mar 27 17:56:45 2024
+| Host         : tamamo running 64-bit Ubuntu 20.04.6 LTS
+| Command      : upgrade_ip
+| Device       : xc7z007sclg400-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_0_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 28) to (Rev. 31)
+

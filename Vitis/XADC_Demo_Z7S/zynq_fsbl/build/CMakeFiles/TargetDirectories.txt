@@ -1,0 +1,3 @@
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Vitis/XADC_Demo_Z7S/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Vitis/XADC_Demo_Z7S/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+/home/tamamo/Documents/ENE331_workspace/ENE331-Embedded/Vitis/XADC_Demo_Z7S/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir
